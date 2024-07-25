@@ -3801,6 +3801,7 @@ input, select, textarea {
 				border-radius: 100%;
 				margin: 0 3em 2em 0;
 				width: 26em;
+				height: auto;
 				overflow: hidden;
 				-ms-flex: 1;
 			}
